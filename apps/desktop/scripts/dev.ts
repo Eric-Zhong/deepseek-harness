@@ -53,7 +53,8 @@ async function runPackageScript(script: string, cwd: string): Promise<void> {
   if (packageManager === undefined || packageManager === '') {
     throw new Error('desktop development: invoke this launcher through pnpm run dev:desktop or start:desktop')
   }
-  await run(process.execPath, [packageManager, 'run', script], cwd)
+  // Use 'pnpm' command directly instead of npm_execpath (which is a binary executable)
+  await run('pnpm', ['run', script], cwd)
 }
 
 async function launchElectron(): Promise<void> {
