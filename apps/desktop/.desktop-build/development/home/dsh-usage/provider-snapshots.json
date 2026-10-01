@@ -4,79 +4,84 @@
   "deepseek-official": {
    "provider": "deepseek-official",
    "displayName": "DeepSeek",
-   "credential": "none",
+   "credential": "env",
    "supported": true,
-   "updatedAt": 1790851957383
+   "updatedAt": 1790861762634,
+   "balance": {
+    "currency": "CNY",
+    "totalBalance": "53.15",
+    "updatedAt": 1790861762758
+   }
   },
   "kimi-coding": {
    "provider": "kimi-coding",
    "displayName": "kimi-coding",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851957383
+   "updatedAt": 1790861762758
   },
   "minimax": {
    "provider": "minimax",
    "displayName": "minimax",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851957384
+   "updatedAt": 1790861762758
   },
   "minimax-cn": {
    "provider": "minimax-cn",
    "displayName": "minimax-cn",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851957384
+   "updatedAt": 1790861762758
   },
   "moonshotai": {
    "provider": "moonshotai",
    "displayName": "moonshotai",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851957384
+   "updatedAt": 1790861762759
   },
   "moonshotai-cn": {
    "provider": "moonshotai-cn",
    "displayName": "moonshotai-cn",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851957384
+   "updatedAt": 1790861762759
   },
   "openai-codex": {
    "provider": "openai-codex",
    "displayName": "openai-codex",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851957384
+   "updatedAt": 1790861762759
   },
   "opencode-go": {
    "provider": "opencode-go",
    "displayName": "opencode-go",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851957384
+   "updatedAt": 1790861762759
   },
   "openrouter": {
    "provider": "openrouter",
    "displayName": "openrouter",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851957384
+   "updatedAt": 1790861762759
   },
   "zai": {
    "provider": "zai",
    "displayName": "zai",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851957384
+   "updatedAt": 1790861762759
   },
   "zai-coding-cn": {
    "provider": "zai-coding-cn",
    "displayName": "zai-coding-cn",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851957384
+   "updatedAt": 1790861762759
   }
  },
  "spendWatch": {
