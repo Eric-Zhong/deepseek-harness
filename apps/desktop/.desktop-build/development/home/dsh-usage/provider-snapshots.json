@@ -1,0 +1,87 @@
+{
+ "version": 1,
+ "providers": {
+  "deepseek-official": {
+   "provider": "deepseek-official",
+   "displayName": "DeepSeek",
+   "credential": "none",
+   "supported": true,
+   "updatedAt": 1790851657319
+  },
+  "kimi-coding": {
+   "provider": "kimi-coding",
+   "displayName": "kimi-coding",
+   "credential": "none",
+   "supported": true,
+   "updatedAt": 1790851657319
+  },
+  "minimax": {
+   "provider": "minimax",
+   "displayName": "minimax",
+   "credential": "none",
+   "supported": true,
+   "updatedAt": 1790851657320
+  },
+  "minimax-cn": {
+   "provider": "minimax-cn",
+   "displayName": "minimax-cn",
+   "credential": "none",
+   "supported": true,
+   "updatedAt": 1790851657320
+  },
+  "moonshotai": {
+   "provider": "moonshotai",
+   "displayName": "moonshotai",
+   "credential": "none",
+   "supported": true,
+   "updatedAt": 1790851657320
+  },
+  "moonshotai-cn": {
+   "provider": "moonshotai-cn",
+   "displayName": "moonshotai-cn",
+   "credential": "none",
+   "supported": true,
+   "updatedAt": 1790851657320
+  },
+  "openai-codex": {
+   "provider": "openai-codex",
+   "displayName": "openai-codex",
+   "credential": "none",
+   "supported": true,
+   "updatedAt": 1790851657320
+  },
+  "opencode-go": {
+   "provider": "opencode-go",
+   "displayName": "opencode-go",
+   "credential": "none",
+   "supported": true,
+   "updatedAt": 1790851657320
+  },
+  "openrouter": {
+   "provider": "openrouter",
+   "displayName": "openrouter",
+   "credential": "none",
+   "supported": true,
+   "updatedAt": 1790851657320
+  },
+  "zai": {
+   "provider": "zai",
+   "displayName": "zai",
+   "credential": "none",
+   "supported": true,
+   "updatedAt": 1790851657320
+  },
+  "zai-coding-cn": {
+   "provider": "zai-coding-cn",
+   "displayName": "zai-coding-cn",
+   "credential": "none",
+   "supported": true,
+   "updatedAt": 1790851657320
+  }
+ },
+ "spendWatch": {
+  "accruedCny": 0,
+  "since": 1790850207361,
+  "lastBalanceCny": 53.15
+ }
+}
