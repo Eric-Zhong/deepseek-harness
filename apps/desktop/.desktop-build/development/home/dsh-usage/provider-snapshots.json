@@ -6,77 +6,77 @@
    "displayName": "DeepSeek",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851657319
+   "updatedAt": 1790851957383
   },
   "kimi-coding": {
    "provider": "kimi-coding",
    "displayName": "kimi-coding",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851657319
+   "updatedAt": 1790851957383
   },
   "minimax": {
    "provider": "minimax",
    "displayName": "minimax",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851657320
+   "updatedAt": 1790851957384
   },
   "minimax-cn": {
    "provider": "minimax-cn",
    "displayName": "minimax-cn",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851657320
+   "updatedAt": 1790851957384
   },
   "moonshotai": {
    "provider": "moonshotai",
    "displayName": "moonshotai",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851657320
+   "updatedAt": 1790851957384
   },
   "moonshotai-cn": {
    "provider": "moonshotai-cn",
    "displayName": "moonshotai-cn",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851657320
+   "updatedAt": 1790851957384
   },
   "openai-codex": {
    "provider": "openai-codex",
    "displayName": "openai-codex",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851657320
+   "updatedAt": 1790851957384
   },
   "opencode-go": {
    "provider": "opencode-go",
    "displayName": "opencode-go",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851657320
+   "updatedAt": 1790851957384
   },
   "openrouter": {
    "provider": "openrouter",
    "displayName": "openrouter",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851657320
+   "updatedAt": 1790851957384
   },
   "zai": {
    "provider": "zai",
    "displayName": "zai",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851657320
+   "updatedAt": 1790851957384
   },
   "zai-coding-cn": {
    "provider": "zai-coding-cn",
    "displayName": "zai-coding-cn",
    "credential": "none",
    "supported": true,
-   "updatedAt": 1790851657320
+   "updatedAt": 1790851957384
   }
  },
  "spendWatch": {

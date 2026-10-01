@@ -57,3 +57,4 @@ apps/desktop/.desktop-build/development/home/profiles/desktop/node_modules
 !apps/desktop/.desktop-build/development/project/
 !apps/desktop/.desktop-build/development/project/**
 apps/desktop/.desktop-build/development/project/node_modules
+apps/desktop/.desktop-build/development/home/.credentials.yaml
