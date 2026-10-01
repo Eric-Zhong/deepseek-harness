@@ -1,0 +1,381 @@
+{
+  "version": 7,
+  "record": {
+    "identity": {
+      "formatVersion": 4,
+      "createdAt": 1790852192616,
+      "cwd": "/Users/zhong/Desktop/obsidian",
+      "isSeeded": false,
+      "inheritedEventCount": 0
+    },
+    "rows": {
+      "title": {
+        "ver": 1,
+        "seq": 140,
+        "val": "学习 Archify 并撰写详细介绍"
+      },
+      "titleInput": {
+        "ver": 3,
+        "seq": 140,
+        "val": {
+          "first": {
+            "seq": 9,
+            "text": "我今天发现了一个新工具，它是开源的，网站在：https://github.com/tt-a1i/archify 请你帮我详细学习一下，然后帮我整理成对它的详细介绍文章，我需要你使用通俗易懂的语言，描述这个工作如何使用。"
+          },
+          "count": 1,
+          "lastSeq": 9
+        }
+      },
+      "llmRetry": {
+        "ver": 1,
+        "seq": 140,
+        "val": {}
+      },
+      "sandboxMode": {
+        "ver": 1,
+        "seq": 140,
+        "val": "workspace-write"
+      },
+      "goal": {
+        "ver": 6,
+        "seq": 140,
+        "val": {
+          "current": null,
+          "seenGoalIds": [],
+          "failure": null
+        }
+      },
+      "tokenUsage": {
+        "ver": 2,
+        "seq": 140,
+        "val": {
+          "totals": {
+            "uncachedInputTokens": 110784,
+            "outputTokens": 6752,
+            "cacheReadTokens": 379904,
+            "cacheWriteTokens": 0
+          },
+          "last": {
+            "turn": 1,
+            "step": 11,
+            "buckets": {
+              "uncachedInputTokens": 4310,
+              "outputTokens": 419,
+              "cacheReadTokens": 42496,
+              "cacheWriteTokens": 0
+            }
+          }
+        }
+      },
+      "contextPressure": {
+        "ver": 5,
+        "seq": 140,
+        "val": {
+          "surfaceTokens": 32776,
+          "contextWindow": 272000,
+          "pressureTokens": 46806,
+          "sampledSurfaceTokens": 32566
+        }
+      },
+      "contextBreakdown": {
+        "ver": 5,
+        "seq": 140,
+        "val": {
+          "nodes": [
+            {
+              "seq": 8,
+              "heuristicTokens": 11803,
+              "system": true
+            },
+            {
+              "seq": 9,
+              "heuristicTokens": 36,
+              "system": false
+            },
+            {
+              "seq": 10,
+              "heuristicTokens": 2374,
+              "system": false
+            },
+            {
+              "seq": 11,
+              "heuristicTokens": 126,
+              "system": false
+            },
+            {
+              "seq": 12,
+              "heuristicTokens": 647,
+              "system": false
+            },
+            {
+              "seq": 18,
+              "heuristicTokens": 132,
+              "system": false
+            },
+            {
+              "seq": 97,
+              "heuristicTokens": 1303,
+              "system": false
+            },
+            {
+              "seq": 31,
+              "heuristicTokens": 160,
+              "system": false
+            },
+            {
+              "seq": 39,
+              "heuristicTokens": 273,
+              "system": false
+            },
+            {
+              "seq": 42,
+              "heuristicTokens": 135,
+              "system": false
+            },
+            {
+              "seq": 99,
+              "heuristicTokens": 1298,
+              "system": false
+            },
+            {
+              "seq": 53,
+              "heuristicTokens": 140,
+              "system": false
+            },
+            {
+              "seq": 101,
+              "heuristicTokens": 1298,
+              "system": false
+            },
+            {
+              "seq": 66,
+              "heuristicTokens": 125,
+              "system": false
+            },
+            {
+              "seq": 103,
+              "heuristicTokens": 1298,
+              "system": false
+            },
+            {
+              "seq": 81,
+              "heuristicTokens": 147,
+              "system": false
+            },
+            {
+              "seq": 105,
+              "heuristicTokens": 1298,
+              "system": false
+            },
+            {
+              "seq": 90,
+              "heuristicTokens": 58,
+              "system": false
+            },
+            {
+              "seq": 107,
+              "heuristicTokens": 1298,
+              "system": false
+            },
+            {
+              "seq": 110,
+              "heuristicTokens": 111,
+              "system": false
+            },
+            {
+              "seq": 116,
+              "heuristicTokens": 1933,
+              "system": false
+            },
+            {
+              "seq": 119,
+              "heuristicTokens": 2166,
+              "system": false
+            },
+            {
+              "seq": 123,
+              "heuristicTokens": 2076,
+              "system": false
+            },
+            {
+              "seq": 126,
+              "heuristicTokens": 151,
+              "system": false
+            },
+            {
+              "seq": 134,
+              "heuristicTokens": 2180,
+              "system": false
+            },
+            {
+              "seq": 137,
+              "heuristicTokens": 210,
+              "system": false
+            }
+          ],
+          "breakdown": {
+            "systemTokens": 11803,
+            "toolsTokens": 536,
+            "messageTokens": 20973
+          }
+        }
+      },
+      "turnBoundary": {
+        "ver": 2,
+        "seq": 140,
+        "val": {
+          "openTurnStartSeq": null,
+          "lastStepStartSeq": 136,
+          "lastStepBoundary": {
+            "kind": "end",
+            "seq": 138
+          },
+          "lastTurn": 1
+        }
+      },
+      "inbox": {
+        "ver": 1,
+        "seq": 140,
+        "val": {
+          "next-turn": [],
+          "next-step": []
+        }
+      },
+      "sessionStats": {
+        "ver": 1,
+        "seq": 140,
+        "val": {
+          "turns": 1,
+          "steps": 11,
+          "llmMs": 148908,
+          "toolMs": 145630,
+          "ttftMs": 27119,
+          "ttftSteps": 11,
+          "decodeMs": 121789,
+          "decodeTokens": 6752,
+          "lastTurn": 1,
+          "openStep": null,
+          "pendingCalls": {}
+        }
+      },
+      "turnOutline": {
+        "ver": 2,
+        "seq": 140,
+        "val": {
+          "turns": [
+            {
+              "turn": 1,
+              "seq": 5,
+              "prompt": "我今天发现了一个新工具，它是开源的，网站在：https://github.com/tt-a1i/a…",
+              "response": "已完成对 Archify 的调研，并整理成一篇适合长期保存和继续扩展的 Obsidian 参考文章： [Archify-开源AI编图工具详细介绍与使用指南.md](/Users/zhong/Desktop/obsidian/30_Know…"
+            }
+          ],
+          "draft": ""
+        }
+      },
+      "agentPreset": {
+        "ver": 1,
+        "seq": 140,
+        "val": "ptc"
+      },
+      "userQuestions": {
+        "ver": 2,
+        "seq": 140,
+        "val": {
+          "inheritedEventCount": 0,
+          "timed": false,
+          "questions": {
+            "active": [],
+            "settled": []
+          }
+        }
+      },
+      "subagentCatalog": {
+        "ver": 3,
+        "seq": 140,
+        "val": {
+          "inheritedEventCount": 0
+        }
+      },
+      "subagentTiming": {
+        "ver": 3,
+        "seq": 140,
+        "val": {
+          "descriptorSeen": false,
+          "settledMs": 0
+        }
+      },
+      "subagent": {
+        "ver": 2,
+        "seq": 140,
+        "val": {}
+      },
+      "agentTeam": {
+        "ver": 4,
+        "seq": 140,
+        "val": {
+          "id": "session-5be97325-e1d8-4ecf-953e-469b10274025",
+          "members": [],
+          "tasks": [],
+          "messages": [],
+          "delivered": [],
+          "nextTaskNumber": 1
+        }
+      },
+      "permissions": {
+        "ver": 2,
+        "seq": 140,
+        "val": {
+          "preset": "workspace-write",
+          "sandbox": "workspace-write",
+          "approval": "ask",
+          "seeded": false
+        }
+      },
+      "todos": {
+        "ver": 2,
+        "seq": 140,
+        "val": null
+      },
+      "plan": {
+        "ver": 3,
+        "seq": 140,
+        "val": {
+          "active": false,
+          "wanted": null,
+          "running": null,
+          "activeAtLastHeader": false
+        }
+      },
+      "subagentModelSelectionPolicy": {
+        "ver": 1,
+        "seq": 140,
+        "val": null
+      },
+      "modelSelection": {
+        "ver": 2,
+        "seq": 140,
+        "val": {
+          "lastUsed": {
+            "provider": "openai",
+            "model": "gpt-5.6-luna"
+          },
+          "pending": null
+        }
+      },
+      "sessionListMetadata": {
+        "ver": 1,
+        "seq": 140,
+        "val": {
+          "blank": false,
+          "lastPromptAt": 1790852292741
+        }
+      },
+      "imageLimits": {
+        "ver": 1,
+        "seq": 140,
+        "val": null
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+ "version": 1,
+ "days": {
+  "2026-10-01": {
+   "openai": {
+    "gpt-5.6-luna": {
+     "inputTokens": 302978,
+     "outputTokens": 13257,
+     "cacheReadTokens": 1180672,
+     "cacheWriteTokens": 0,
+     "reasoningTokens": 0,
+     "calls": 28,
+     "cost": 0
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+  "unit": {
+    "name": "workspace",
+    "version": 2
+  },
+  "global": {
+    "initialized": true,
+    "workspaceIds": [
+      "b85adc81-188b-4452-83d3-5294abd2a737",
+      "e473a01d-74c4-42ce-93a0-d3dc0e90d985"
+    ],
+    "archivedSessionIds": [],
+    "pinnedSessionIds": []
+  },
+  "tables": {
+    "workspaces": {
+      "e473a01d-74c4-42ce-93a0-d3dc0e90d985": {
+        "path": "/Users/zhong/Desktop/obsidian",
+        "title": "obsidian",
+        "sessionIds": [
+          "session-5be97325-e1d8-4ecf-953e-469b10274025",
+          "session-bac92d0a-bfa7-4fb0-a540-399ca3fb5d5e"
+        ],
+        "createdAt": "2026-10-01T02:08:15.193Z",
+        "updatedAt": "2026-10-01T10:56:32.623Z"
+      },
+      "b85adc81-188b-4452-83d3-5294abd2a737": {
+        "path": "/Users/zhong/git/Wine/OPC",
+        "title": "OPC",
+        "sessionIds": [
+          "session-e7418152-4d7f-4b83-a152-bbbea9b8bc52"
+        ],
+        "createdAt": "2026-10-01T11:36:43.568Z",
+        "updatedAt": "2026-10-01T11:36:43.615Z"
+      }
+    }
+  }
+}
