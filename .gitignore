@@ -46,3 +46,7 @@ worktrees/
 .agents/worktrees/
 .typert-*/
 native/system/test/bin/
+
+# xuzhong
+!apps/desktop/.desktop-build/development/home/
+!apps/desktop/.desktop-build/development/home/**

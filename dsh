@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# ~/git/deepseek-harness/dsh
+# 切换到脚本所在目录（源码根）执行pnpm dsh
+SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
+cd "$SCRIPT_DIR"
+exec pnpm dsh "$@"
